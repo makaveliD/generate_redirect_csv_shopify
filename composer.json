@@ -1,0 +1,10 @@
+{
+  "require": {
+	"aspera/xlsx-reader": "^0.10.1"
+  },
+  "autoload": {
+	"files": [
+	  "App/CsvRedirectGenerator.php"
+	]
+  }
+}
